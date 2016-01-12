@@ -1,6 +1,10 @@
 Ruby Course
 ===========
 
+### Como Funciona esse Curso
+
+Olá novo Aluno! Para participar desse curso você deve somente criar um fork desse repositório para a sua conta no GitHub. Inicialmente, você terá alguns exercícios que devem ser resolvidos online (como codecademy) e para eles você deve colocar a screenshot do curso completo. Para exercícios que serão feitos no seu próprio ambiente, versione o código na pasta correspondente.
+
 ### Objetivo do Curso
 
 Criar alunos **competentes** em Ruby

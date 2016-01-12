@@ -1,0 +1,1 @@
+Versione nesta pasta o código do Encryptor
