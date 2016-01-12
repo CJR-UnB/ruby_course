@@ -14,7 +14,7 @@ Criar alunos **competentes** em Ruby
 + [Documentação Oficial Ruby Lang](http://ruby-doc.org/)
 + [Ruby Wiki](https://en.wikibooks.org/wiki/Ruby_Programming)
 
-### Nível 0 - Pré-requisitos
+### Nível 0 - Pré-requisitos e Ambiente
 
 + Use uma distribuição Linux ou Mac OS como sistema operacional
 **Dica:** Não use o windows :sunglasses:
@@ -22,8 +22,6 @@ Criar alunos **competentes** em Ruby
 + **Recomendação:** Estrutura de Dados e Programação Orientada a Objetos
 + Editor de texto (Sublime Text ou Atom)
 + Git
-
-### Nível 1 - Ambiente e Estrutura Básica
 
 Para aprender Ruby, é necessário ter um ambiente configurado com o RVM - Ruby 
 Version Manager.
@@ -36,6 +34,10 @@ Version Manager.
 
 + [RVM](https://rvm.io/)
 
+### Lesson 1 - Estrutura Básica
+
+Com o ambiente preparado, podemos aprender Ruby. Acesse o seguinte arquivo e respondá o questionário antes de seguir para o próximo exercicio.
+
 ##### Exercícios
 
 + [Codecademy Ruby Course](https://www.codecademy.com/pt/learn/ruby) 2 dias
@@ -44,7 +46,7 @@ Version Manager.
 
 + [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals)
 
-### Nível 2
+### Lesson 2
 
 No nível 2, o aluno vai fazer um projeto no próprio ambiente e conhecer como debugar um programa Ruby no próprio computador.
 
@@ -56,7 +58,7 @@ No nível 2, o aluno vai fazer um projeto no próprio ambiente e conhecer como d
 
 + [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
 
-### Nível 3
+### Lesson 3
 
 No nível 3, o aluno já conhece o básico de Ruby então pode começar a estudar Rails ou ainda aumentar sua maestria em Ruby fazer mais alguns projetos.
 

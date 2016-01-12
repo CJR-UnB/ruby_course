@@ -1,1 +1,0 @@
-Versione nesta pasta a screenshot do codecademy
