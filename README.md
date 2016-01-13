@@ -3,16 +3,11 @@ Ruby Course
 
 ### Como Funciona esse Curso
 
-Olá novo Aluno! Para participar desse curso você deve somente criar um fork desse repositório para a sua conta no GitHub. Inicialmente, você terá alguns exercícios que devem ser resolvidos online (como codecademy) e para eles você deve colocar a screenshot do curso completo. Para exercícios que serão feitos no seu próprio ambiente, versione o código na pasta correspondente.
+Olá novo aluno! Para participar desse curso você deve somente criar um fork desse repositório para a sua conta no GitHub. Inicialmente, você terá alguns exercícios que devem ser resolvidos online (como codecademy) e para eles você deve colocar a screenshot do curso completo. Para exercícios que serão feitos no seu próprio ambiente, versione o código na pasta correspondente.
 
 ### Objetivo do Curso
 
 Criar alunos **competentes** em Ruby
-
-> **Documentação**
-
-+ [Documentação Oficial Ruby Lang](http://ruby-doc.org/)
-+ [Ruby Wiki](https://en.wikibooks.org/wiki/Ruby_Programming)
 
 ### Nível 0 - Pré-requisitos e Ambiente
 
@@ -36,25 +31,27 @@ Version Manager.
 
 ### Lesson 1 - Estrutura Básica
 
-Com o ambiente preparado, podemos aprender Ruby. Acesse o seguinte arquivo e respondá o questionário antes de seguir para o próximo exercicio.
+Com o ambiente preparado, podemos aprender Ruby. Acesse o seguinte arquivo `lesson_1/exercise_1.md` e respondá o questionário antes de seguir para o próximo exercicio.
 
 ##### Exercícios
 
 + [Codecademy Ruby Course](https://www.codecademy.com/pt/learn/ruby) 2 dias
 
->> **Opcionais**
+###### Opcionais
 
 + [Ruby in 100 minutes](http://tutorials.jumpstartlab.com/projects/ruby_in_100_minutes.html#9.-conditionals)
 
 ### Lesson 2
 
-No nível 2, o aluno vai fazer um projeto no próprio ambiente e conhecer como debugar um programa Ruby no próprio computador.
+Primeiramente, vamos fazer uma pequena revisão do que acabamos de aprender e respondá o formulário `lesson_2/exercise_1.md`
+
+Agora, o aluno vai fazer um projeto no próprio ambiente e conhecer como debugar um programa Ruby no próprio computador.
 
 ##### Exercícios
 
 + [Encryptor](http://tutorials.jumpstartlab.com/projects/encryptor.html) 2 dias
 
->> **Opcionais**
+###### Opcionais
 
 + [EventManager](http://tutorials.jumpstartlab.com/projects/eventmanager.html)
 
@@ -66,8 +63,17 @@ No nível 3, o aluno já conhece o básico de Ruby então pode começar a estuda
 
 + [Koans](http://rubykoans.com/)
 
->> **Opcionais**
+###### Opcionais
 
 
 + [MicroBlogger](http://tutorials.jumpstartlab.com/projects/microblogger.html)
 + [ProcessArtist](http://tutorials.jumpstartlab.com/projects/process_artist.html)
+
+### Bibliografia
+
++ [Documentação Oficial Ruby Lang](http://ruby-doc.org/)
++ [Ruby Wiki](https://en.wikibooks.org/wiki/Ruby_Programming)
+
+### Melhorias e Feedbacks no curso
+
++ TODO fazer um bibliografia
