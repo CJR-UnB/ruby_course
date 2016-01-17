@@ -3,7 +3,14 @@ Ruby Course
 
 ### Como Funciona esse Curso
 
-Olá novo aluno! Para participar desse curso você deve somente criar um fork desse repositório para a sua conta no GitHub. Inicialmente, você terá alguns exercícios que devem ser resolvidos online (como codecademy) e para eles você deve colocar a screenshot do curso completo. Para exercícios que serão feitos no seu próprio ambiente, versione o código na pasta correspondente.
+Olá novo aluno! Para participar desse curso você deve somente criar um fork desse repositório para a sua conta no GitHub. Inicialmente, você terá alguns exercícios que devem ser resolvidos online (como codecademy) e para eles você deve colocar a screenshot do curso completo, caso seu monitor queria que você faça. Para exercícios que serão feitos no seu próprio ambiente, versione o código na pasta correspondente.
+
+### Como atualizar meu fork
+
+Caso a CJR atualize o repositório com novos exercícios, você pode usar os links a baixo para saber como atualizar seu fork com relação ao repositório inicial.
+
++ [https://help.github.com/articles/configuring-a-remote-for-a-fork/](https://help.github.com/articles/configuring-a-remote-for-a-fork/)
++ [https://help.github.com/articles/syncing-a-fork/](https://help.github.com/articles/syncing-a-fork/)
 
 ### Objetivo do Curso
 
