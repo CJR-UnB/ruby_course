@@ -35,7 +35,7 @@ Com o ambiente preparado, podemos aprender Ruby. Acesse o seguinte arquivo `less
 
 ##### Exercícios
 
-+ [Codecademy Ruby Course](https://www.codecademy.com/pt/learn/ruby) 2 dias
++ [Codecademy Ruby Course](https://www.codecademy.com/pt/learn/ruby)
 
 ###### Opcionais
 
@@ -49,7 +49,7 @@ Agora, o aluno vai fazer um projeto no próprio ambiente e conhecer como debugar
 
 ##### Exercícios
 
-+ [Encryptor](http://tutorials.jumpstartlab.com/projects/encryptor.html) 2 dias
++ [Encryptor](http://tutorials.jumpstartlab.com/projects/encryptor.html)
 
 ###### Opcionais
 
@@ -77,3 +77,4 @@ No nível 3, o aluno já conhece o básico de Ruby então pode começar a estuda
 ### Melhorias e Feedbacks no curso
 
 + TODO fazer um bibliografia
++ Adicionar mais exercicios
